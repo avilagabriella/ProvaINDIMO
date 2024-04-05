@@ -3,7 +3,7 @@
 ### Switch e juros
 
 # Sobre o projeto:
-- Tela de switch para ver uma lindas flores
+- Tela de switch para ver lindas flores
 - Calculadora de juros:  informar o juros com base no valor e na porcentagem
 
 # Linguagens:
