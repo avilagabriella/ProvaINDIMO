@@ -1,9 +1,9 @@
-# ProvaINDIMO
+# 🪷 ProvaINDIMO 🪷
 
 ### Switch e juros
 
 # Sobre o projeto:
-- Tela de switch para ver uma linda borboleta
+- Tela de switch para ver uma lindas flores
 - Calculadora de juros:  informar o juros com base no valor e na porcentagem
 
 # Linguagens:
